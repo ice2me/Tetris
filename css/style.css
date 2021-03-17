@@ -124,9 +124,5 @@ h1, h2, h3, h4, h5, h6 {
   -webkit-justify-content: center;
       -ms-flex-pack: center;
           justify-content: center;
-  background-color: #999;
-}
-
-.root canvas {
-  border: 1px solid;
+  background-color: #000;
 }
